@@ -14,6 +14,7 @@ A simple command-line habit tracker that allows users to log daily habits, add n
 - `habit_tracker.py` : main Python file containing all core logic
 - `habits.json` : stores the user's list of habit questions
 - `habit_log.txt` : stores daily logs of habit responses
+- *The above 2 files ('.json', '.txt') are automatically generated in the same directory when you run'habit_tracker.py' for the first time.* 
 
 ## How to Use
 
