@@ -6,7 +6,7 @@ Users can define their own daily habits, answer prompts, and save responses to a
 ---
 
 ## 📂 Project Structure
-
+<pre>
 habit_tracker/
 ├── habit_tracker.py         # Main entry point
 ├── habit_editor.py          # Habit creation/editing functions
@@ -15,6 +15,7 @@ habit_tracker/
 ├── settings.py              # Global settings and file paths
 ├── habit_log.txt            # (Auto-created) Habit log file
 └── habits.json              # (Auto-created) Habit questions
+</pre>
 
 
 ---
